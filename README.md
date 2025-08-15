@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pierre-Alain.
 - 👀 I’m interested in web development and Linux.
-- 🌱 I’m currently learning Rust, Elixir and Linux systems.
+- 🌱 I’m currently learning Rust, Haskell and Linux systems.
 - 💞️ I’m looking to collaborate on *.
 - 📫 How to reach me: hello@metapho.re
 
